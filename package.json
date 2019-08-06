@@ -1,17 +1,18 @@
 {
-  "name": "@yyyyu/react-native-basscss",
-  "author": "yyyyu <g592842897@gmail.com>",
+  "name": "basscss-flexbox-react-native",
+  "author": "Omid Ebrahimi <ebrahimi.omid69@gmail.com> (https://github.com/omid-ebrahimi)",
   "version": "1.3.1",
   "keywords": [
     "react-native",
-    "basscss"
+    "basscss",
+    "flex"
   ],
-  "description": "react native version basscss.",
+  "description": "react native version of basscss-flexbox.",
   "license": "MIT",
-  "homepage": "https://github.com/yyyyu/react-native-basscss",
+  "homepage": "https://github.com/omid-ebrahimi/basscss-flexbox-react-native",
   "repository": {
     "type": "git",
-    "url": "git@github.com:yyyyu/react-native-basscss.git"
+    "url": "https://github.com/omid-ebrahimi/basscss-flexbox-react-native.git"
   },
   "main": "index.js",
   "scripts": {
