@@ -10,10 +10,7 @@
   "description": "React Native version of basscss-flexbox.",
   "license": "MIT",
   "homepage": "https://github.com/omid-ebrahimi/basscss-flexbox-react-native",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/omid-ebrahimi/basscss-flexbox-react-native.git"
-  },
+  "repository": "https://github.com/omid-ebrahimi/basscss-flexbox-react-native.git",
   "main": "index.js",
   "scripts": {
     "build": "rollup -c rollup.config.js"
