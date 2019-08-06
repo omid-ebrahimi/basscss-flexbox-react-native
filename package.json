@@ -1,13 +1,13 @@
 {
   "name": "basscss-flexbox-react-native",
   "author": "Omid Ebrahimi <ebrahimi.omid69@gmail.com> (https://github.com/omid-ebrahimi)",
-  "version": "1.3.1",
+  "version": "1.0.0",
   "keywords": [
     "react-native",
     "basscss",
     "flex"
   ],
-  "description": "react native version of basscss-flexbox.",
+  "description": "React Native version of basscss-flexbox.",
   "license": "MIT",
   "homepage": "https://github.com/omid-ebrahimi/basscss-flexbox-react-native",
   "repository": {
