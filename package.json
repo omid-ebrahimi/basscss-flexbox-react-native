@@ -1,7 +1,7 @@
 {
   "name": "basscss-flexbox-react-native",
   "author": "Omid Ebrahimi <ebrahimi.omid69@gmail.com> (https://github.com/omid-ebrahimi)",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "keywords": [
     "react-native",
     "basscss",
@@ -16,6 +16,7 @@
     "build": "rollup -c rollup.config.js"
   },
   "devDependencies": {
+    "@types/react-native": "^0.60.3",
     "rollup": "^1.1.0",
     "rollup-plugin-typescript2": "^0.18.1",
     "typescript": "^3.2.2"
